@@ -32,6 +32,12 @@ Our goals are:
   - To make an extendible platform.
   - To make data understandable without having to know specific concepts.
 
+![Screenshot1](https://github.com/Pego43/CPAC-Project--Feel-The-Data/assets/48025739/2df71dd4-40ff-4536-a23d-6558b74ab881)
+
+![Screenshot2](https://github.com/Pego43/CPAC-Project--Feel-The-Data/assets/48025739/901fa7e6-48d3-4855-bf0b-eb80d69315a9)
+
+![Screenshot3](https://github.com/Pego43/CPAC-Project--Feel-The-Data/assets/48025739/ca8a5a3e-3e84-49d3-9465-97d250965043)
+
 ### Challenges <a name = "chall"></a>
 One of the main challenges we run into has been not being able to work physically
 together and divide the work in such a way that it could be easily merged.
