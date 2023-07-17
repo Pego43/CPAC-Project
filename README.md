@@ -42,13 +42,11 @@ Our goals are:
 One of the main challenges we run into has been not being able to work physically
 together and divide the work in such a way that it could be easily merged.
 
-
 Another issue was automatic music composition. At first, we wanted to use a model
 (Riffusion) that created complete musical loops using spectrogram images to generate
 sound. But after some time we understood that it was too much work for the time we
 got. So we decided to go with Magenta which has libraries and models easy to use and
 understand.
-
 
 Lastly, we run into some issues using a framework that allowed us to have a big particle
 system that could run in a browser without having performance issues. We solved the
@@ -58,10 +56,8 @@ problem by choosing a vanilla javascript algorithm.
 We are proud of how we merged together our ideas and also used the latest
 technologies.
 
-
 Although having some problems, we arrived at a more straightforward but,
 we think, more effective solution. 
-
 
 Moreover, we valued a lot the testing part and, for
 example, we made sure that even if OpenAI didn’t work we had backup images to not
@@ -70,7 +66,6 @@ lose the visual aspect of the app.
 ### Lessons learned <a name = "less"></a>
 We learned a lot about how to make an idea that we were all happy about into
 something possible to do and to better understand the small actions to take.
-
 
 We also learned how important it is to always take a step back and see the project from the point
 of view of someone that has not been involved in the creation of the app, as in this way
