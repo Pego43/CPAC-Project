@@ -4,7 +4,7 @@
 - Eutizi Claudio
 - Perego Gabriele
 - Ricard Plandolit
-- -Zezza Federica
+- Zezza Federica
 
 ### Abstract
 A machine learning-powered platform to make users feel the
