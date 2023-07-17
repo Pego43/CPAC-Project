@@ -5,7 +5,7 @@
 1. [Authors](#authors)
 2. [Abstract](#abstract)
 3. [Description](#desc)
-4. [How it works](#chal)
+4. [How it works](#hiw)
 5. [Technology](#tec)
 6. [Link](#projectlink)
 
@@ -29,7 +29,7 @@ Our goals are:
   - To make an extendible platform.
   - To make data understandable without having to know specific concepts.
 
-### How it works <a name = "chall"></a>
+### How it works <a name = "hiv"></a>
 On the first page, the user will find: the title of the project, the name of the authors and a start button to go to the world map.  
 The user has the possibilitiy to visualize the map and choose a few cities on it.  
 ![Screenshot1](https://github.com/Pego43/CPAC-Project--Feel-The-Data/assets/48025739/2df71dd4-40ff-4536-a23d-6558b74ab881)
