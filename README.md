@@ -1,4 +1,4 @@
-# Feel the data
+# FEEL THE DATA 
 ![Thumbnail](https://github.com/Pego43/CPAC-Project--Feel-The-Data/assets/48025739/19fe9bd8-86c3-4ffd-958b-1dd2ec4969fe)
 
 ### Summary
@@ -40,37 +40,39 @@ Our goals are:
 
 ### Challenges <a name = "chall"></a>
 One of the main challenges we run into has been not being able to work physically
-together and divide the work in such a way that it could be easily merged.
+together and divide the work in such a way that it could be easily merged.\\
 Another issue was automatic music composition. At first, we wanted to use a model
 (Riffusion) that created complete musical loops using spectrogram images to generate
 sound. But after some time we understood that it was too much work for the time we
 got. So we decided to go with Magenta which has libraries and models easy to use and
-understand.
+understand.\\
 Lastly, we run into some issues using a framework that allowed us to have a big particle
 system that could run in a browser without having performance issues. We solved the
-problem by choosing a vanilla javascript algorithm.
+problem by choosing a vanilla javascript algorithm.\\
 
 ### Accomplishments <a name = "acc"></a>
 We are proud of how we merged together our ideas and also used the latest
-technologies. Although having some problems, we arrived at a more straightforward but,
-we think, more effective solution. Moreover, we valued a lot the testing part and, for
+technologies.\\
+Although having some problems, we arrived at a more straightforward but,
+we think, more effective solution. \\
+Moreover, we valued a lot the testing part and, for
 example, we made sure that even if OpenAI didn’t work we had backup images to not
 lose the visual aspect of the app.
 
 ### Lessons learned <a name = "less"></a>
 We learned a lot about how to make an idea that we were all happy about into
-something possible to do and to better understand the small actions to take. We also
-learned how important it is to always take a step back and see the project from the point
+something possible to do and to better understand the small actions to take.\\
+We also learned how important it is to always take a step back and see the project from the point
 of view of someone that has not been involved in the creation of the app, as in this way
 we can be sure that the message is effective.
 
 ### Technology <a name = "tec"></a>
-For the map: p5.js, mappa.js, and the Mapbox API.
-For the music: magenta.js, specifically the magenta RNN and magenta music VAE.
-We applied the valence-arousal plane concept to map the data to music.
-For the data: OpenWeather API, specifically the Current Weather Data API and Air Pollution API.
-For the visuals: plain javascript, the OpenAI Dall-e API, and the concepts of Particle systems and Perlin noise.
-The whole project is hosted in a Node.js application.
+For the map: p5.js, mappa.js, and the Mapbox API.\\
+For the music: magenta.js, specifically the magenta RNN and magenta music VAE.\\
+We applied the valence-arousal plane concept to map the data to music.\\
+For the data: OpenWeather API, specifically the Current Weather Data API and Air Pollution API.\\
+For the visuals: plain javascript, the OpenAI Dall-e API, and the concepts of Particle systems and Perlin noise.\\
+The whole project is hosted in a Node.js application.\\
 
 ### Links <a name = "projectlink"></a>
 http://feel-the-data-rick1080p.onrender.com/
