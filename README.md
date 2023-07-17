@@ -17,8 +17,7 @@
 
 
 ### Abstract <a name = "abstract"></a>
-A machine learning-powered platform to make users feel the
-evolution of data through time and hear the impact of such data through emotion.
+A machine learning-powered platform to make users feel the evolution of data through time and hear the impact of such data through emotion.
 
 ### Description <a name = "desc"></a>
 A machine learning-based data sonification and visualization web app to
