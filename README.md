@@ -41,13 +41,11 @@ Our goals are:
 ### Challenges <a name = "chall"></a>
 One of the main challenges we run into has been not being able to work physically
 together and divide the work in such a way that it could be easily merged.
-
 Another issue was automatic music composition. At first, we wanted to use a model
 (Riffusion) that created complete musical loops using spectrogram images to generate
 sound. But after some time we understood that it was too much work for the time we
 got. So we decided to go with Magenta which has libraries and models easy to use and
 understand.
-
 Lastly, we run into some issues using a framework that allowed us to have a big particle
 system that could run in a browser without having performance issues. We solved the
 problem by choosing a vanilla javascript algorithm.
