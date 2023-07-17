@@ -1,4 +1,5 @@
 # Feel the data
+![Thumbnail](https://github.com/Pego43/CPAC-Project--Feel-The-Data/assets/48025739/19fe9bd8-86c3-4ffd-958b-1dd2ec4969fe)
 
 ### Summary
 1. [Authors](#authors)
